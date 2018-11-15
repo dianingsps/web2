@@ -28,3 +28,8 @@ Route::get('/cake', function () {
 Route::get('halaman/tambah','contoh@tambah'); //file get tidak mau ditaruh bawah resource
 //function tambah tidak ada di resource jadu ditambahkan sendiri
 Route::resource('halaman','contoh');
+Route::resource('/mahasiswa','mahasiswa');
+Route::resource('user','user');
+Route::resource('file','File');
+Route::resource('barang','barang');
+Route::resource('barang','barang');

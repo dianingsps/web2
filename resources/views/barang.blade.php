@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -40,15 +40,15 @@
                 <a href="/">Home</a>
             </li>
             <li class="main-nav">
-                <a href="/Product">Product</a>
+                <a href="/Product">Product Table</a>
            <ul class="main-nav">
             <li>
                 <a href="/coffee">Coffee</a>
             </li>
-			<li> <a href="/cake">Cake</a></li>
+			<li> <a href="/cake">CakeS</a></li>
 			</ul>
 			</li>
-			<li> <a href="/">File</a></li>
+			<li> <a href="/">Stock</a></li>
         </ul>
     </aside>
 
